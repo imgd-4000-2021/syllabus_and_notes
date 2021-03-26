@@ -23,7 +23,7 @@ Course communication will primarily occur through the course Discord server; ple
 ## Prereqs
 While there are no formal prerequisites for taking this course, students will ideally be familiar with C++, which will be used extensively but *not taught explicitly* (with some rare exceptions). IMGD 3000 is a great class to familiarize yourself with C++ before taking this course; there are also various courses in Computer Science that teach fundamentals of C/C++ programming.
 
-## Grades
+## Grades (subject to change)
 Students will work in teams in combination with members of IMGD 4500 (Aristic Game Development II) to create an interactive experience in Unreal; this project will account for the bulk of your grade. There will also be two separate assignments using Unreal that will be completed indvidually; these are designed to ensure that every member of the class has fundamental competency using the Unreal Engine.
 
 ### Assignments (30% Total)
