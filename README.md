@@ -11,6 +11,8 @@ Some topics discussed in this course include:
 - Source control / asset management for game engines  
 
 ## Learning in the time of COVID-19
+This class will be taught entirely online. 
+
 Your first priority in this difficult time should be taking care of yourself, your family, and limiting your risk of contracting / spreading COVID-19 (and get vaccinated!) All individual assignments in this class will come with a recommneded due date that is intended to help keep you on track, *but you are free to turn them in at any point in the course*. Group assignments will have stricter deadlines to try and keep projects on track.
 
 Don't let this class add too muchh more stress to your life; use it as a time to have fun with a powerful game engine building an interactive experience with your talented peers. At the same time, try to remember that you are working on a project as part of a team, and communicate to your teammates what you feel you can reasonably contribute and when you will be able to deliver it. 
