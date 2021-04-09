@@ -2,7 +2,7 @@
 
 - [Understanding Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 - [Tutorial on UE4 + Git](https://stefanperales.com/blog/unreal-engine-4-and-git-lfs/)
-- [A previous IMGD 4000 Tutorial on source control](https://github.com/imgd-4000-2020/syllabus-and-notes/blob/master/version_control_day6.md) this tutorial might make sense to follow if everyone in your group is comfortable with the command line.
+- [A previous IMGD 4000 Tutorial on source control](https://github.com/imgd-4000-2020/syllabus-and-notes/blob/master/version_control_day6.md). This tutorial might make sense to follow if everyone in your group is comfortable with the command line.
 
 ## Installation of git, git-lfs, and git plugin for UE4
 - [Install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
