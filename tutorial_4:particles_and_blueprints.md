@@ -88,4 +88,4 @@ Connect the control flow output of our Spawn Emitter to our Set Beam Target Poin
 ### Set the particles to flow between pawn and enemy
 Last but not least we’ll set the particles to flow between the pawn and the enemy. To do this, all we need to do is keep calling Set Beam Target Point with a brief delay.  Drag a pin out of the control flow output from Set Beam Target Point, and do a search for Delay. Set a duration of .05 (in seconds) by typing it into the property field. Last but not least, connect the output of the delay to the control flow input of the Set Beam Target Point. This, in effect, creates a recursive function that calls itself over time, constantly updating the location of the player and thus changing the positioning of the particle beam. 
 
-Save and compile the blueprint, and then test your scene to see the results. Your final blueprint should look something [like this](./images/day4/beam_blueprint.png)
+Save and compile the blueprint, and then test your scene to see the results. Your final blueprint should look something [like this](https://github.com/imgd-4000-2020/syllabus-and-notes/blob/master/images/day4/beam_blueprint.png)
