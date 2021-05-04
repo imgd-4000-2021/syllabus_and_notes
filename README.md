@@ -42,7 +42,7 @@ Please feel free to record this presentation ahead-of-time if that would be more
 ### Final Group Project (70% Total)
 Initial Design Document - 5%  
 Website for project - 15%  
-Midterm Code Review - 5%  
+Midterm Code Review - 5% (cancelled, you get this 5% for free)  
 Alpha Presentation - 20%  
 [Beta Presentation](https://github.com/imgd-4000-2021/syllabus_and_notes/blob/main/beta.md) - 25%  
 
