@@ -26,16 +26,20 @@ While there are no formal prerequisites for taking this course, students will id
 ## Grades (subject to change)
 Students will work in teams in combination with members of IMGD 4500 (Aristic Game Development II) to create an interactive experience in Unreal; this project will account for the bulk of your grade. There will also be two separate assignments using Unreal that will be completed indvidually; these are designed to ensure that every member of the class has fundamental competency using the Unreal Engine.
 
-### Assignments (30% Total)
-For the additional assignments in this class, you must complete one of the two programming assignments (Agent-based simulation or Pathfinding / A*) and then one other choice from the following list:  
+### Assignments (30% Total)  
 
-Assignment 1: Agent-based simulation - 15%  
-Assignment 2: Pathfinding - 15%  
-In-class tutorial on a development concept in Unreal - 15%  
+*FREE BONUS POINTS HOORAY* - 15%  
 
-If you'd really like to focus on C++ in Unreal, completing both programming assignments is great!
+*In-class development tutorial* - 15%  
+Spend 8–10 minutes primarily discussing one aspect of your development work. Show us what you've be spending your time on! There won't be enough time for everyone to go into details about this in the beta presentation, so now is a great opportunity to focus on development efforts. Please discuss:
 
-### Final Group Project (65% Total)
+1. Any tricky, complex, or otherwise significant development challenge you've face while working on your project. Give us an overview of how you solved it!
+2. UE4 tricks / plugins / APIs that other people might not be aware of and could possibly use in future work.
+3. The one thing about Unreal development you wish you had known before starting this project.
+
+Please feel free to record this presentation ahead-of-time if that would be more comfortable for you. Make sure you post the recording online and have a publicly accessible link to share.
+
+### Final Group Project (70% Total)
 Initial Design Document - 5%  
 Website for project - 15%  
 Midterm Code Review - 5%  
