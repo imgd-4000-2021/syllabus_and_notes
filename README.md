@@ -44,7 +44,7 @@ Initial Design Document - 5%
 Website for project - 15%  
 Midterm Code Review - 5%  
 Alpha Presentation - 20%  
-Beta Presentation - 25%  
+[Beta Presentation](https://github.com/imgd-4000-2021/syllabus_and_notes/blob/main/beta.md) - 25%  
 
 ## Final Project
 The final project will be an interactive experience created using Unreal, coded in a mix of C++ and Blueprints. Students will work in teams of three developers + two artists on this project, and, generally speaking, the final grade for the project will be shared by all team members. There are numerous milestones for this final project (see above) and each milestone will be accompanied by a document detailing what is expected and what the rubric for grading it will be. 
