@@ -1,4 +1,4 @@
-# Beta Presentation and Release – GROUP – Wednesday, May 13th 
+# Beta Presentation and Release – GROUP – Thursday, May 13th 
 The final version of your game in this course is a "beta" release. It should have most bugs fixed, and have
 reasonable game balance. All art assets should be in place and functional and all the tech features
 should be functional. Your final presentation will be held via Zoom and should be no more than 10 minutes in length.
